@@ -1,8 +1,8 @@
 # simple premade system for Fast coding
-class Premade:
+class Premades:
     def __init__(self):
         pass
 
-    def print(any, amount=1):
+    def print(msg, amount=1):
         for i in range(amount):
             __builtins__.print(any)
