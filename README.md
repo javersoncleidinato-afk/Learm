@@ -1,4 +1,14 @@
-## learm 
-one basic reposit that I will place some things.
+# Learm
 
-majority of things will be about html or python.
+A simple repository where I will store basic things, mostly about HTML and Python.
+
+## 🐍 Python
+
+### Premades
+- [Premades.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Premades.py)
+  - Examples: [Premades-examples.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Premades-examples.py)
+
+
+
+ ## 🏷️ HTML
+ - Empty...
