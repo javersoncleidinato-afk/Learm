@@ -1,4 +1,4 @@
-n,,# Learm
+# Learm
 
 A simple repository where I will store basic things, mostly about HTML and Python.
 
@@ -14,8 +14,9 @@ A simple repository where I will store basic things, mostly about HTML and Pytho
 ### Pollinations Premade
 #### Desc: let's use pollinations with only some lines of coding!
 
-- [Pollination-Premade.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Pollinations-Premade.py)
- - [Pollinations-Premade-Example.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Pollinations-pmade.py)
+- [Pollination-Premade.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Pollinations-Premades.py)
+        
+ - Example: [Pollinations-Premade-Example.py](https://github.com/javersoncleidinato-afk/Learm/blob/main/Pollinations-pmade-examples.py)
 
 
  ## 🏷️ HTML
