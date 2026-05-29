@@ -1,8 +1,11 @@
-# simple premade system for Fast coding
 class Premades:
     def __init__(self):
-        pass
+        import time
+        self.time = time
 
-    def print(msg, amount=1):
+    def print(self, msg, amount=1):
         for i in range(amount):
-            __builtins__.print(any)
+            __builtins__.print(msg)
+
+    def wait(self, amount=1):
+        self.time.sleep(amount)
