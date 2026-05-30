@@ -1,7 +1,8 @@
 class Premades:
     def __init__(self):
-        import time
+        import time, urllib.parse
         self.time = time
+        self.urllib = urllib.parse
 
     def print(self, msg, amount=1):
         for i in range(amount):
@@ -9,3 +10,6 @@ class Premades:
 
     def wait(self, amount=1):
         self.time.sleep(amount)
+
+    def quote(self, msg):
+        return self.urllib.quote(msg)
