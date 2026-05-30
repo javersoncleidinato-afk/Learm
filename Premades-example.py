@@ -1,4 +1,4 @@
-# Placing Premades class
+# Placing class
 p = Premades() # code on https://github.com/javersoncleidinato-afk/Learm/blob/main/Premades.py
 
 # 1. print
@@ -12,3 +12,7 @@ print("end, 1 second")
 p.wait()
 print("end")
 # wait(num), wait 'num' seconds, if None waits 1 second
+
+# 3. quote
+print(p.quote("Hello guys"))
+# uses urllib.parse.quote fast, returns the result
