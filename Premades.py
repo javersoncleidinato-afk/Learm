@@ -13,3 +13,6 @@ class Premades:
 
     def quote(self, msg):
         return self.urllib.quote(msg)
+
+    def quote_plus(self, msg):
+        return self.urllib.quote_plus(msg)
