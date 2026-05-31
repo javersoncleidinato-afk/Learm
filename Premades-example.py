@@ -15,4 +15,8 @@ print("end")
 
 # 3. quote
 print(p.quote("Hello guys"))
-# uses urllib.parse.quote fast, returns the result
+# uses urllib.parse.quote, returns the result
+
+# 4. quote(plus)
+print(p.quote_plus("Hungary mein"))
+# uses urllib.parse.quote_plus
